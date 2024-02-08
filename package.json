@@ -1,0 +1,19 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "description": "Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casv7906/alpha.git"
+  },
+  "author": "Cesar Sandoval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casv7906/alpha/issues"
+  },
+  "homepage": "https://github.com/casv7906/alpha#readme"
+}
