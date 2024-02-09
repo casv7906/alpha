@@ -20,7 +20,7 @@ To get started with Alpha, follow these simple steps:
 1. **Installation:** Clone the Alpha repository or install it via package manager:
    ```bash
    git clone https://github.com/yourusername/alpha.git
-```
+   ```
 
    test test
-1. **Installation:** Clone the Alpha repository or install it via package manager:   
+1. **Installation:** Clone the Alpha repository or install it via package manager:   manager:     
