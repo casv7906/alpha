@@ -23,3 +23,4 @@ To get started with Alpha, follow these simple steps:
 ```
 
    test test
+1. **Installation:** Clone the Alpha repository or install it via package manager:   
